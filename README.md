@@ -18,7 +18,7 @@
 
 ### 📊 GitHub Stats
 
-[![Kgosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgosimodisane1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Kgosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgosimodisane1&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 kgosimodisane1/kgosimodisane1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
